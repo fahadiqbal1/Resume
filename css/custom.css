@@ -1,0 +1,71 @@
+body {
+	padding-top: 15px;
+	padding-bottom: 30px;
+	background: #eee;
+}
+
+.navbar-form input, .form-inline input {
+	width:auto;
+}
+
+.container {
+	background: #fff;
+}
+
+
+header {
+	height:270px;
+}
+
+.nav {
+	border: none;
+}
+
+@media (min-width: 979px) {
+  #sidebar.affix-top {
+    position: static;
+  	margin-top:25px;
+  	width:228px;
+  }
+  
+  #sidebar.affix {
+    position: fixed;
+    top:25px;
+    width:228px;
+  }
+}
+
+.affix,.affix-top {
+   position:static;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+#email {
+	color: inherit;
+}
+
+.icon-github:hover {
+	color: #000;
+}
+
+.icon-google-plus:hover {
+	color: red;
+}
+
+.icon-linkedin:hover {
+	color: blue;
+}
+
+.icon-twitter:hover {
+	color: blue;
+}
+
+.sidebarLast {
+	border-top: solid;
+	border-width: 0.3em;
+	border-color: #eee;
+	text-align: center;
+}
