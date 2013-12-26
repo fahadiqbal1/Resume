@@ -1,0 +1,50 @@
+Fahad Iqbal
+	Permenant Address: 10133 Sugarbridge Trl.	Sugarland, TX 77498
+	Current Address: 18679 E Baltic Pl. Appt 1136	Aurora, CO 80013
+	www.fahadiqbal.com	
+	720-281-0447
+	iqbal.fahad90@gmail.com
+
+-- Profile	
+	Highly driven individual who works well in challenging, fast-paced, high-stress and deadline-oriented environments individually or as part of a team; proficient in project management and digital technology; also heavily experienced with customer and employee relationships as well as crisis management. Knowledgeable in creating detailed reports, documents and presentations, database modeling, SQL, MS Access, PHP, jQuery and is certified in Microsoft Office. Focused on consistent quality work and has desire to simplify and innovate the daily operations of corporate culture.
+-- Education
+	* University of Denver (Daniels College of Business)
+		Denver, Colorado
+		August 2009-September2013
+		Bachelor of Science in Business Administration
+		Major: Information Technology and E-Commerce | Minor: Finance
+			Extra-Curricular Activities
+			* International Professional Business Fraternity Delta Sigma Pi (2009-2013)
+				President (2012-2013)
+				Senior Vice President (2010)
+			* Excelling Leaders Institute (2009 - 2013)
+			* Orientation Leader (2012)
+			* Muslim Student Organization
+				President (2010)
+-- Professional Experience
+	* Production Support Analyst (Cachematrix, LLC)
+		Denver, Colorado
+		05/2012 - Present
+		** Support web based applications and products in production and test based environments. Note any and all interruptions or bugs in operation and perform problem solving experience to determine problem and ensure continued use by clients.
+		** Develop data extractions or develop reports from requests or requirements stated by clients, and to investigate data and application based issues.
+		** Track and monitor all tickets created by clients or from internal departments and report uptime and progress to development and project management teams.
+	* Digital life & COmputers & Tablets specialist (Best Buy)
+		Aurora, Colorado
+		08/2011 – 05/2012
+		** Relationship selling products, services and solution to customers by asking lifestyle questions to thoroughly understand the customer’s needs and providing a solution that best fits those needs
+		** Used all relevant sales tools to drive profitable growth and used on-line resources, tools and peers to self-train in computers, tablets, mobile electronics, and digital technologies.
+	* Senior Instructor (Children’s Technology Workshop)
+		Denver, Colorado
+		02/2010 – 08/2011
+		** Managed classes at locations throughout the Denver Metropolitan Area, in which at least fifteen students were encouraged to pick a theme-based adventure and then explore a variety of technologies within that adventure, such as GameMaker, LEGO NXT, Pivot, and StopMotion.
+		** Dealt with the administration of various schools and recreational centers where the classes were held and handled the complaints, concerns and comments of all parents, students, and administrative staff. Marketed the company in a manner that has helped sustain and grow the program despite a recession and aided in transforming the program to become a model in North America.
+	* Office Manager (ABC Academy)
+		Aurora, Colorado
+		08/2010 – 06/2011
+		** Helped start the business by creating an in-depth business plan, which was then presented to banks and firms in order to start up the small family business
+		** Created an integrated process to streamline the accounting and payroll of the childcare center
+	* Team Lead (Chick-fil-A)
+		Aurora, Colorado
+		10/2008 - 09/2009
+		** Maintained a daily deposit of at least two thousand dollars and handled all of the revenue for the evening shift from 2PM to 10PM.
+		** Managed all employee activities, including breaks, during the course of the shift and handled any and all customer service issues. Drove productivity to regional highs on a consistent basis and made sure to motivate every member to maintain the highest degree of customer service and customer satisfaction. 
